@@ -1,3 +1,5 @@
+
+![WhatsApp Image 2026-02-27 at 23 18 16](https://github.com/user-attachments/assets/ba72067c-0086-45e5-8309-b0df1a4b185a)
 # 📈 Fibonacci Strategy - AI Chart Analyzer
 
 This is a web application that helps traders analyze charts using Fibonacci levels. Powered by AI, this tool automatically finds important price points to help you make better trading decisions.
@@ -51,9 +53,3 @@ npm run dev
 ## ⚠️ Disclaimer
 
 This application is for educational and analysis purposes only. Trading involves risk. Always use your own judgment and risk management before making any financial decisions.
-
----
-
-### Tips for your GitHub:
-
-* **Add a Screenshot**: It is very helpful to add a picture of your app under the "How to Use It" section so people can see what it looks like.
